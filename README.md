@@ -6,7 +6,9 @@ This repository contains the lab exercises for the Modern Android Development co
 
 The lab exercises are organized into separate folders, each containing the source code and the README file for the corresponding project. The lab exercises are as follows:
 
-- [Lab 1: Tap Counter](https://github.com/IT-KCT-Modern-Android-Development/TapCounter-Android-Jetpack): A simple app that counts the number of taps on the screen using Composables, Modifiers, and Event-Listeners.
+- [Lab 1: Tap Counter](https://github.com/IT-KCT-Modern-Android-Development/TapCounter-Android-Jetpack):
+  <br>
+    A simple app that counts the number of taps on the screen using Composables, Modifiers, and Event-Listeners.
 - [Lab 2: Material App](https://github.com/IT-KCT-Modern-Android-Development/MaterialApp-Android-Jetpack): A basic app that demonstrates the use of Material Theme and Material Widgets to create a consistent and attractive UI.
 - [Lab 3: Screen Navigation](https://github.com/IT-KCT-Modern-Android-Development/ScreenNavigation-Android-Jetpack): An app that shows how to use Modal Drawer and Page Navigation to navigate between different screens and pass data between them.
 - [Lab 4: Android Animation](https://github.com/IT-KCT-Modern-Android-Development/AndroidAnimation-Android-Jetpack): An app that shows how to use Color, Size, and Visibility Animations to create dynamic and interactive UI elements.
