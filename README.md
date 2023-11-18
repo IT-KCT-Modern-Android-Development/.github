@@ -8,13 +8,25 @@ The lab exercises are organized into separate folders, each containing the sourc
 
 - [Lab 1: Tap Counter](https://github.com/IT-KCT-Modern-Android-Development/TapCounter-Android-Jetpack):
   <br>
-    A simple app that counts the number of taps on the screen using Composables, Modifiers, and Event-Listeners.
-- [Lab 2: Material App](https://github.com/IT-KCT-Modern-Android-Development/MaterialApp-Android-Jetpack): A basic app that demonstrates the use of Material Theme and Material Widgets to create a consistent and attractive UI.
-- [Lab 3: Screen Navigation](https://github.com/IT-KCT-Modern-Android-Development/ScreenNavigation-Android-Jetpack): An app that shows how to use Modal Drawer and Page Navigation to navigate between different screens and pass data between them.
-- [Lab 4: Android Animation](https://github.com/IT-KCT-Modern-Android-Development/AndroidAnimation-Android-Jetpack): An app that shows how to use Color, Size, and Visibility Animations to create dynamic and interactive UI elements.
-- [Lab 5: DataStore](https://github.com/IT-KCT-Modern-Android-Development/DataStore-Android-Jetpack): An app that shows how to use DataStore to perform CRUD operations on the local storage and persist data across app restarts.
-- [Lab 6: Map WebView](https://github.com/IT-KCT-Modern-Android-Development/MapWebView-Android-Jetpack): An app that shows how to use WebView to display a map of the current location using Google Maps API.
-- [Lab 7: GyroSensing](https://github.com/IT-KCT-Modern-Android-Development/GyroSensing-Android-Jetpack): An app that shows how to use the gyroscopic sensor to display the real-time values of the orientation and rotation of the device.
+  &emsp; A simple app that counts the number of taps on the screen using Composables, Modifiers, and Event-Listeners.
+- [Lab 2: Material App](https://github.com/IT-KCT-Modern-Android-Development/MaterialApp-Android-Jetpack):
+  <br>
+  &emsp; A basic app that demonstrates the use of Material Theme and Material Widgets to create a consistent and attractive UI.
+- [Lab 3: Screen Navigation](https://github.com/IT-KCT-Modern-Android-Development/ScreenNavigation-Android-Jetpack):
+  <br>
+  &emsp; An app that shows how to use Modal Drawer and Page Navigation to navigate between different screens and pass data between them.
+- [Lab 4: Android Animation](https://github.com/IT-KCT-Modern-Android-Development/AndroidAnimation-Android-Jetpack):
+  <br>
+  &emsp; An app that shows how to use Color, Size, and Visibility Animations to create dynamic and interactive UI elements.
+- [Lab 5: DataStore](https://github.com/IT-KCT-Modern-Android-Development/DataStore-Android-Jetpack):
+  <br>
+  &emsp; An app that shows how to use DataStore to perform CRUD operations on the local storage and persist data across app restarts.
+- [Lab 6: Map WebView](https://github.com/IT-KCT-Modern-Android-Development/MapWebView-Android-Jetpack):
+  <br>
+  &emsp; An app that shows how to use WebView to display a map of the current location using Google Maps API.
+- [Lab 7: GyroSensing](https://github.com/IT-KCT-Modern-Android-Development/GyroSensing-Android-Jetpack):
+  <br>
+  &emsp; An app that shows how to use the gyroscopic sensor to display the real-time values of the orientation and rotation of the device.
 
 ## Acknowledgements
 
