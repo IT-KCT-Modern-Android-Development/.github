@@ -1,5 +1,3 @@
-I can help you create a proper markdown with tappable links for a README in GitHub. Here is a possible template that you can use or modify as you wish:
-
 # Modern Android Development Lab
 
 This repository contains the lab exercises for the Modern Android Development course, which aims to migrate the curriculum from old Java to new Kotlin and Jetpack Compose for B.Tech Information Technology students at Kumaraguru College of Technology. The course covers various topics and technologies related to modern Android development, such as Composables, Modifiers, Event-Listeners, Material Theme, Material Widgets, Modal Drawer, Page Navigation, Animations, DataStore, WebView, and Gyroscopic Sensor. The lab exercises are designed to help the students learn and practice these topics and technologies in a hands-on and fun way.
