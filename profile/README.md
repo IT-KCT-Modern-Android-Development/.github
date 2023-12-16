@@ -23,7 +23,7 @@ The lab exercises are organized into separate folders, each containing the sourc
   &emsp; An app that shows how to use DataStore to perform CRUD operations on the local storage and persist data across app restarts.
 - [Lab 6: Map WebView](https://github.com/IT-KCT-Modern-Android-Development/MapWebView-Android-Jetpack):
   <br>
-  &emsp; An app that shows how to use WebView to display a map of the current location using Google Maps API.
+  &emsp; An app that shows how to use WebView to display a map of the current location using Bing Maps API.
 - [Lab 7: GyroSensing](https://github.com/IT-KCT-Modern-Android-Development/GyroSensing-Android-Jetpack):
   <br>
   &emsp; An app that shows how to use the gyroscopic sensor to display the real-time values of the orientation and rotation of the device.
