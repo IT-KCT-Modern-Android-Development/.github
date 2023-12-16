@@ -30,4 +30,4 @@ The lab exercises are organized into separate folders, each containing the sourc
 
 ## Acknowledgements
 
-I would like to thank the Department of Information Technology for supporting my effort to adopt modern technology and update the curriculum. I would also like to thank Vivekanandh Sir for his encouragement and guidance. I hope this repository will be useful for the students and instructors who are interested in learning and teaching modern Android development.
+I would like to thank the Department of Information Technology for supporting my effort to adopt modern technology and update the curriculum. My Special thanks to **Vivekanandh Sir** for his support and mentorship. I hope this repository will be useful for the students and instructors who are interested in learning and teaching modern Android development.
