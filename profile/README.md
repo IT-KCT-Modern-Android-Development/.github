@@ -2,9 +2,8 @@
 
 This repository contains the lab exercises for the Modern Android Development course, which aims to migrate the curriculum from old Java to new Kotlin and Jetpack Compose for B.Tech Information Technology students at Kumaraguru College of Technology. The course covers various topics and technologies related to modern Android development, such as Composables, Modifiers, Event-Listeners, Material Theme, Material Widgets, Modal Drawer, Page Navigation, Animations, DataStore, WebView, and Gyroscopic Sensor. The lab exercises are designed to help the students learn and practice these topics and technologies in a hands-on and fun way.
 
-## Lab Manual link 
-
-[Modern Android Development - Lab Manual](https://github.com/IT-KCT-Modern-Android-Development/.github/blob/main/Modern%20Android%20Development%20-%20Lab%20Manual.docx)
+#### Lab Manual - [Modern Android Development](https://github.com/IT-KCT-Modern-Android-Development/.github/blob/main/Modern%20Android%20Development%20-%20Lab%20Manual.docx)
+#### Source Repository - [https://github.com/stars/KarthiDreamr/lists/android-development-basics](https://github.com/stars/KarthiDreamr/lists/android-development-basics)
 
 ## Lab Exercises
 
